@@ -1,0 +1,17 @@
+2021-05-02 21:16:39,Lexi,used room 1,::1
+2021-05-02 21:16:45,Lexi,used room 2,::1
+2021-05-02 21:16:52,Lexi,used room 3,::1
+2021-05-02 21:17:05,Claire,used room 3,::1
+2021-05-02 21:17:15,emoney,login,::1
+2021-05-02 21:17:22,emoney,changes made,::1
+2021-05-02 21:24:20,Claire,used room 3,::1
+2021-05-02 21:24:23,emoney,changes made,::1
+2021-05-02 21:24:32,Claire,used room 3,::1
+2021-05-02 21:36:45,emoney,logout,::1
+2021-05-02 21:40:24,emoney,login,::1
+2021-05-02 21:40:33,emoney,logout,::1
+2021-05-02 22:07:42,emoney,login,::1
+2021-05-02 22:08:02,Claire,used room 1,::1
+2021-05-02 22:08:23,emoney,logout,::1
+2021-05-02 22:09:57,Claire,used room 1,::1
+2021-05-02 22:10:18,Claire,used room 1,::1
